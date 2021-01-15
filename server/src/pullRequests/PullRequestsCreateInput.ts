@@ -1,0 +1,2 @@
+class PullRequestsCreateInput {}
+export { PullRequestsCreateInput };

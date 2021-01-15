@@ -1,0 +1,2 @@
+class PullRequestsUpdateInput {}
+export { PullRequestsUpdateInput };
